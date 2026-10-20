@@ -6,7 +6,7 @@ tags:
   - ai-safety
   - pdoom
 ---
-![[Pasted image 20261020120000.png|215]]
+![[human and robot hands.png|215]]
 
 You can't really escape the thought, the news media or the speculation that AI is going to cause some kind of catastrophic event. This may not be a very healthy thing to think about, but it probably is something we should be concerned with. I do worry about the impact this has on people with anxiety or mental health issues, and I've had to moderate myself talking about this with people for just that reason. 
 
@@ -14,7 +14,7 @@ Whilst listening to the *More or Less*, Radio 4 podcast, I became aware of a phe
 
 When coming up with this number, the exact outcomes, and how bad they might be, differ from one prediction to another. But the [Wikipedia article](https://en.wikipedia.org/wiki/P(doom)) collects a number of P(doom) values from prominent people in the AI community, including CEOs and founders of prominent AI companies such as Anthropic and OpenAI.
 
-![[Pasted image 20261020115933.png|192]]
+![[dice.png|192]]
 
 If we look at those numbers, it's easy to become alarmed. The figure quoted by an employee who quit an AI company in protest was more than 10% within a decade (see [Welcome to #TeamHuman](https://www.youtube.com/shorts/uqiH3R4TEgk)). If we do a very quick analysis of those 37 (correct at time of writing) Wikipedia individuals, then we can see a median about 18% and average about 34%, but with a massive spread (13 people under 10% and 14 at 50% or above)
 
