@@ -90,8 +90,7 @@ And then we realised that, to build and test, we'd need **a whole bunch of test 
 
 At the end of this step, we had a very detailed specification, with a number of decisions made, and some homework for me to go away and do.
 
-**[Read the full Decomplexifier specification](LINK-TO-SPEC)**
-
+**[![[The Decomplexifier — Product Specification.pdf]]
 I think this is a sensible first step for any reasonably sized software project. In fact, I could have spent more time editing and refining the document, maybe consulting other humans, or other LLMs, to improve it.
 
 ## Five takeaways
