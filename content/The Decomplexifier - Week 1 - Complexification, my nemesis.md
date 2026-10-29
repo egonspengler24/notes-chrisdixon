@@ -4,7 +4,9 @@ date: 2026-10-25
 tags: [ai, complexification, decomplexifier, process, simplicity]
 series: The Decomplexifier
 ---
+![[decomplexifier-journey-step-1.png]]
 
+> *In part 1 of the series, we are going to start with our initial idea, and offer some thoughts on how AI tools might help us turn this into reality*
 # The Decomplexifier, Part 1: Complexification and Ideas
 
 > **The Decomplexifier series**
