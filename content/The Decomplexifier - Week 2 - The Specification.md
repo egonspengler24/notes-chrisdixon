@@ -49,16 +49,17 @@ The Claude window also summarised the plan: creating a minimal viable process fr
 
 The draft also contained a number of open questions, things I hadn't told Claude in my initial prompt, which I had to go away and answer:
 
-| Claude's question | My answer |
-|---|---|
-| **Who is it for?** | Individuals first, to play around with. |
-| **Free or paid?** | I really like the idea of it being free, but it needs an API to an LLM, and that costs money. This needed more thought, and led to the cost analysis in Round 3. |
-| **What's the character?** | I really liked the idea of the machine, but not Claude's early name or ideas, so we refined them. |
-| **Should it suggest automation?** | Yes, but kept separate, so it doesn't dilute the original idea. |
-| **Should the scoring be adjustable?** | Useful, but we don't want it too complicated or too harsh. That led to four modes: *light dusting*, *spring clean*, *declutter* and *scorched earth*. |
-| **On-premise version?** | No. I see this working on the web, in the cloud. |
-| **The name?** | Claude suggested one I didn't like, so we clarified it would be called **the Decomplexifier**. |
-![[software_modes.png]]
+| Claude's question                     | My answer                                                                                                                                                        |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Who is it for?**                    | Individuals first, to play around with.                                                                                                                          |
+| **Free or paid?**                     | I really like the idea of it being free, but it needs an API to an LLM, and that costs money. This needed more thought, and led to the cost analysis in Round 3. |
+| **What's the character?**             | I really liked the idea of the machine, but not Claude's early name or ideas, so we refined them.                                                                |
+| **Should it suggest automation?**     | Yes, but kept separate, so it doesn't dilute the original idea.                                                                                                  |
+| **Should the scoring be adjustable?** | Useful, but we don't want it too complicated or too harsh. That led to four modes: *light dusting*, *spring clean*, *declutter* and *scorched earth*.            |
+| **On-premise version?**               | No. I see this working on the web, in the cloud.                                                                                                                 |
+| **The name?**                         | Claude suggested one I didn't like, so we clarified it would be called **the Decomplexifier**.                                                                   |
+
+![The four modes: light dusting, spring clean, declutter and scorched earth][software_modes.png]]
 
 After I'd answered all those questions, Claude updated the product specification, which was now in detail.
 
@@ -74,7 +75,7 @@ In the end, we decided to go with:
 
 That led to a whole new section in the brief, because we'd now need to take money and pay it into an API account.
 
-![[tip_jar.png]]
+![Graphic showing a mockup of power meter and tip jar in a sketch format](tip_jar.png)
 
 ## Round 4: How will we build and test it?
 
@@ -91,6 +92,7 @@ And then we realised that, to build and test, we'd need **a whole bunch of test 
 At the end of this step, we had a very detailed specification, with a number of decisions made, and some homework for me to go away and do.
 
 **[![[The Decomplexifier — Product Specification.pdf]]
+
 I think this is a sensible first step for any reasonably sized software project. In fact, I could have spent more time editing and refining the document, maybe consulting other humans, or other LLMs, to improve it.
 
 ## Five takeaways
