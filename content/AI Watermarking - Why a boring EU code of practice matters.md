@@ -1,9 +1,13 @@
 ---
 title: "AI Watermarking: Why a Boring EU Code of Practice Matters"
 date: 2026-09-27
-tags: [ai, regulation, watermarking, llm]
+tags:
+  - ai
+  - regulation
+  - watermarking
+  - llm
+  - "#NoAI"
 ---
-
 # AI Watermarking: Why a Boring EU Code of Practice Matters
 
 Around August 2026, the EU passed a piece of legislation: its **Code of Practice on Transparency of AI-Generated Content**. A super interesting and fun title.
